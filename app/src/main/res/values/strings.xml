@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">FacebookPosting</string>
+    <string name="APP_ID">155395255054237</string>
+    <string name="picture">Picture</string>
+    <string name="multiplePicture">Multiple Picture</string>
+    <string name="friendlist">Friend list</string>
+</resources>
